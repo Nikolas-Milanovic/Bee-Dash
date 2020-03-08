@@ -21,7 +21,8 @@ different operating systems will read the input at different speeds. Therefore, 
 -----------------------------------------------------------------------
 Description of each file:
 
-Bee.java > creates the Bee object 
+Bee.java > creates the Bee object
+
 BeeHive.java > creates the BeeHive object
 
 Welcome.java > Is the opening window the includes the tutorial and leads the player into the game
