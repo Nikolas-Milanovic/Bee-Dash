@@ -20,8 +20,11 @@ different operating systems will read the input at different speeds. Therefore, 
 
 -----------------------------------------------------------------------
 Description of each file:
+
 Bee.java > creates the Bee object 
 BeeHive.java > creates the BeeHive object
+
 Welcome.java > Is the opening window the includes the tutorial and leads the player into the game
+
 BeeGame.java > Is the window that the game is played in, which incorporates the score and levels. This is done by implementing Bee.java and BeeHive.java into the file. 
 
