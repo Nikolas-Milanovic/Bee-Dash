@@ -1,5 +1,5 @@
 # Bee-Rush
-This is my grade 12 computer science culminating project! 
+This is my grade 12 computer science culminating project, which I achived a 100% on! 
 
 The game is designed with object-oriented programming and graphical user interface. It's played by dragging the bees to the hive without them colliding.
 
