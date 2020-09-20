@@ -15,7 +15,7 @@ Lead the bees towards the black & yellow beehive to rank up points
 Avoid causing the bees to splat by them colliding into each other. 
 
 -----------------------------------------------------------------------
-NOTE: The game is designed on macOS. Since the code significantly uses mouse events (such as mousepressed and mousedragged), 
+* NOTE: THE GAME IS DESIGNED ON MACOS. Since the code significantly uses mouse events (such as mousepressed and mousedragged), 
 different operating systems will read the input at different speeds. Therefore, playing on a different operating system other than macOS (ex. Windows) could cause unexpected results (such as clicking on the bee might more difficult). Sorry for the inconvenience.
 
 -----------------------------------------------------------------------
