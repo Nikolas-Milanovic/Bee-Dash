@@ -5,18 +5,29 @@ The game is designed with object-oriented programming and graphical user interfa
 
 To play the game, download the BeeRush.jar file. Your computer might not open the file as it may be read as an unidentified developer. In that case, you can go to your security & privacy settings to allow access to the jar file.
 
+* NOTE: THE DOWLOADABLE JAR FILE HAS ONLY BEEN COMPILED FOR MAC OS. Also this game uses mouse events significnatly (such as mousepressed and mousedragged), therefore is may run slowly if theres not enought cpu power
+
 -----------------------------------------------------------------------
 How To Play:
-Help the bees rebuild their hive! Click anywhere on the bee and drag it to its home(the hive).
+
+Once you open the game you'll see the home screen. Click play now if your ready or click the right button for instrucions. 
+
+
+The game has begun! Help the bees rebuild their hive. Click anywhere on the bee and drag it to its home(the hive).
 Beware the bees can only be dragged so fast. To reset the bee's path, click the bee again.
+
+
 
 Lead the bees towards the black & yellow beehive to rank up points
 
-Avoid causing the bees to splat by them colliding into each other. 
 
------------------------------------------------------------------------
-* NOTE: THE GAME IS DESIGNED ON MACOS. Since the code significantly uses mouse events (such as mousepressed and mousedragged), 
-different operating systems will read the input at different speeds. Therefore, playing on a different operating system other than macOS (ex. Windows) could cause unexpected results (such as clicking on the bee might more difficult). Sorry for the inconvenience.
+
+
+But, make sure the bees don't collide or else...SPLAT! 
+
+
+
+Once the game is done, you can exit or play again :) 
 
 -----------------------------------------------------------------------
 Description of each file:
